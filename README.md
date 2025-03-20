@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @R3M0TED
 - 👀 I’m interested in writing softwware to help those who need it!
-- 🌱 I’m currently learning to program in C# and using asp.net
-- 💞️ I’m looking to collaborate on software for gamers to use
 - 📫 How to reach me: Chriswells2003@outlook.com
 
 <!---
