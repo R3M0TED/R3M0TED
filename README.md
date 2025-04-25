@@ -8,8 +8,8 @@ I'm a passionate QA Engineer with a strong focus on E2E automation. I love solvi
 
 - **Languages**: C#, JavaScript, TypeScript, Python  
 - **Frameworks & Tools**:  
-  - 💡 Playwright (JS/TS & Python)  
-  - ⚙️ Selenium & SpecFlow  (C#)
+  - 💡 Playwright
+  - ⚙️ Selenium & SpecFlow
   - 🧪 NUnit
   - 🃏 Jest
   - 🔧 PyTest
