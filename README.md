@@ -31,7 +31,7 @@ I'm a passionate QA Engineer with a strong focus on E2E automation. I love solvi
 
 I'm always open to connecting with like-minded devs, testers, and builders.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chris-wells-aa89871b4/)
 
 ---
 
